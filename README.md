@@ -3,8 +3,13 @@ This project revolves around utilizing the power of Tableau, a robust data visua
 
 
 Topic : Suicides In India Visualizations Using Tableau
+
 Team Number : 283    
+
 Assignments(All 3)
+
 Final Project (FILE + DEMO_VIDEO + PROJECT_REPORT )
+
 Bootstrap in RAR format
+
 Webpage Link- https://pixel-tryhard.github.io/Website/
